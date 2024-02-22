@@ -13,7 +13,7 @@ The dataset used in this project contains 1800 SMS messages categorized into fiv
 ## Project Components
 - Data Collection: SMS messages were collected and labeled manually.
 - Data Preprocessing: Text preprocessing techniques were applied to clean and tokenize the SMS messages.
-- Model Development: Machine learning models including LSTM, Dense, and Bidirectional LSTM were developed to categorize SMS messages.
+- Model Development: Machine learning models including LSTM, Dense, and Bidirectional LSTM were used to categorize SMS messages.
 - Model Evaluation: Models were evaluated based on their validation loss and validation accuracy.
 - Results Analysis: Results were analyzed to determine the best-performing model for SMS categorization.
   
