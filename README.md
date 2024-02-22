@@ -25,5 +25,5 @@ The dataset used in this project contains 1800 SMS messages categorized into fiv
 ### Bidirectional LSTM Model:
 - Validation Loss: 0.080
 -Validation Accuracy: 0.981
-Based on the results, the Bidirectional LSTM model performed the best with the lowest validation loss and highest validation accuracy.
+-Based on the results, the Bidirectional LSTM model performed the best with the lowest validation loss and highest validation accuracy.
 
